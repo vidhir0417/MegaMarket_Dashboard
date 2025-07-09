@@ -1,4 +1,4 @@
-# README: Mega Market - Data Pre-Processing and Visualization
+# Mega Market - Data Pre-Processing and Visualization
 
 This document details the strategic initiative undertaken by a group of data scientists to transform raw transactional data into a format suitable for advanced analysis and valuable business insights.
 
